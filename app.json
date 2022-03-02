@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ReactNativeAppMr",
+    "slug": "ReactNativeAppMr",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ReactNativeAppMr"
+}
