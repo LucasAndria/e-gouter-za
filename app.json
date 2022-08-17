@@ -1,11 +1,14 @@
 {
   "expo": {
-    "name": "ReactNativeAppMr",
-    "slug": "ReactNativeAppMr",
+    "name": "E-Gouter-Za",
+    "slug": "E-Gouter-Za",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "e.gouter.za"
+    }
   },
   "name": "ReactNativeAppMr"
 }
